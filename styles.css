@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+    padding: 20px;
+}
+header a {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+}
+footer {
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: 4px;
+    padding: 10px;
+    color: whitesmoke;        
+}
+main a {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-decoration: none;        
+}
+main {
+    margin: 21px;
+}
+p img {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+    padding: 6px;
+}
+main p {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+    padding: 6px;    
+}
+.zalivka {
+    background-color: blueviolet;
+    color: whitesmoke;            
+}
+img {
+    background-color: whitesmoke;
+}
